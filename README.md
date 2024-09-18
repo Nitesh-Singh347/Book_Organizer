@@ -100,7 +100,7 @@ Log in to your MySQL server using your preferred method (MySQL Workbench, phpMyA
 In the Java code, update the database connection URL, username, and password as per your MySQL configuration. The connection string should look like this:
 
 ```java
-String url = "jdbc:mysql://localhost:3306/BookStoreDB";
+String url = "jdbc:mysql://localhost:3306/bookorganizer";
 String user = "root";
 String password = "yourpassword";
 
